@@ -1,6 +1,5 @@
 # Olá, eu sou o Walany da Costa👋
 
-- 🔭 Hoje trabalhando com frontEnd
 - 🌱 Estudando react js
 - 📫 contacte-me no email: walanybnegro@gmail.com
 - 😄 Pronouns: ele/dele
